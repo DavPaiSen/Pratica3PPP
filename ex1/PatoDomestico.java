@@ -1,4 +1,4 @@
-public class PatoDomestico extends Pato{
+public class PatoDomestico implements Pato{
     @Override
     public void grasnar() {
         System.out.println("Pato domesticado grasna");

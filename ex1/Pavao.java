@@ -1,5 +1,3 @@
-public class Pavao {
-    public void cantar() {
-        System.out.println("Pavao canta");
-    }
+public interface Pavao {
+    public void cantar();
 }

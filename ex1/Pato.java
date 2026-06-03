@@ -1,9 +1,5 @@
-public class Pato {
-    public void grasnar() {
-        System.out.println("Pato grasna");
-    }
+public interface Pato {
+    public void grasnar();
 
-    public void voar() {
-        System.out.println("Pato voa");
-    }
+    public void voar();
 }

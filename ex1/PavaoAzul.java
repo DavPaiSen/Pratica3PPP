@@ -1,4 +1,4 @@
-public class PavaoAzul extends Pavao{
+public class PavaoAzul implements Pavao{
     @Override
     public void cantar() {
         System.out.println("Pavao azul canta");
